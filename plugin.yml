@@ -1,0 +1,9 @@
+name: PocketMineLogIO
+main: PocketMineLogIO\Main
+version: 0.0.1
+api: [1.0.0]
+
+load: POSTWORLD
+author: Ryan Parrish
+description: Send PocketMine logs to a log.io server 
+website: https://github.com/stickystyle/PocketMineLogIO
